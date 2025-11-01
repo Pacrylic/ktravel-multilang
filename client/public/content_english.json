@@ -1,0 +1,420 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Incheon Airport",
+      "subtitle": "Complete guide to Incheon International Airport",
+      "content": {
+        "overview": "Incheon International Airport is South Korea's largest airport and one of the world's best airports. Located on an island west of Seoul, it serves as the main gateway for international travelers visiting Korea.",
+        "sections": [
+          {
+            "heading": "Airport Facilities",
+            "text": "The airport features duty-free shopping, restaurants, lounges, sleeping areas, shower facilities, and cultural experience centers. Free WiFi is available throughout the terminal."
+          },
+          {
+            "heading": "Transportation to Seoul",
+            "text": "Multiple transportation options connect the airport to Seoul: Airport Railroad Express (AREX), airport limousine buses, regular buses, and taxis. The AREX takes approximately 43 minutes to Seoul Station."
+          },
+          {
+            "heading": "Terminal Information",
+            "text": "Incheon Airport has two terminals connected by a free shuttle train. Terminal 1 serves most airlines, while Terminal 2 primarily serves Korean Air and partner airlines."
+          },
+          {
+            "heading": "Services",
+            "text": "Available services include currency exchange, baggage storage, medical center, pharmacy, children's play areas, and traditional Korean cultural experiences."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Reservation",
+      "subtitle": "Book hotels, tours, and activities",
+      "content": {
+        "overview": "Planning your trip to Korea is easy with various online booking platforms. Reserve accommodations, tours, and activities in advance to ensure availability and often get better rates.",
+        "sections": [
+          {
+            "heading": "Hotel Booking",
+            "text": "Korea offers diverse accommodation options from luxury hotels to budget guesthouses. Popular booking platforms include international sites and local Korean booking services."
+          },
+          {
+            "heading": "Tour Packages",
+            "text": "Organized tours provide convenient ways to explore Korea's attractions. Options include city tours, DMZ tours, cultural experience programs, and K-pop themed tours."
+          },
+          {
+            "heading": "Activity Reservations",
+            "text": "Book tickets for popular attractions, theme parks, shows, and cultural performances in advance. Many attractions offer online booking with discounted rates."
+          },
+          {
+            "heading": "Tips",
+            "text": "Book early during peak seasons (spring cherry blossom season and autumn). Check cancellation policies and read reviews before booking."
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tourist Attraction",
+      "subtitle": "Discover Korea's beautiful destinations",
+      "content": {
+        "overview": "Korea boasts a rich blend of traditional and modern attractions. From ancient palaces and temples to modern skyscrapers and entertainment districts, there's something for every traveler.",
+        "sections": [
+          {
+            "heading": "Historical Sites",
+            "text": "Visit UNESCO World Heritage sites including Gyeongbokgung Palace, Changdeokgung Palace, Bulguksa Temple, and Seokguram Grotto. These sites showcase Korea's rich cultural heritage."
+          },
+          {
+            "heading": "Natural Attractions",
+            "text": "Explore beautiful natural landscapes including Jeju Island, Seoraksan National Park, Nami Island, and the coastal areas. Each season offers unique scenic beauty."
+          },
+          {
+            "heading": "Modern Attractions",
+            "text": "Experience contemporary Korea at places like N Seoul Tower, Lotte World, Dongdaemun Design Plaza, and the vibrant districts of Gangnam and Hongdae."
+          },
+          {
+            "heading": "Cultural Experiences",
+            "text": "Participate in traditional activities such as hanbok wearing, tea ceremonies, temple stays, and Korean cooking classes."
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Transportation",
+      "subtitle": "Navigate Korea with ease",
+      "content": {
+        "overview": "Korea has an excellent public transportation system that is efficient, clean, and affordable. The integrated system makes traveling around cities and between regions convenient.",
+        "sections": [
+          {
+            "heading": "Subway System",
+            "text": "Seoul and major cities have extensive subway networks. Purchase a T-money card for convenient payment across all public transportation. Subway signs and announcements are in Korean, English, Chinese, and Japanese."
+          },
+          {
+            "heading": "Buses",
+            "text": "City buses complement the subway system. Express buses and intercity buses connect different cities. Bus information is available through mobile apps in multiple languages."
+          },
+          {
+            "heading": "Trains",
+            "text": "KTX (Korea Train Express) high-speed trains connect major cities quickly. Regular trains and scenic rail routes are also available. Consider purchasing a Korea Rail Pass for multiple trips."
+          },
+          {
+            "heading": "Taxis",
+            "text": "Taxis are readily available and relatively affordable. Regular taxis, deluxe taxis, and international taxis (with English-speaking drivers) are available."
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Regional Information",
+      "subtitle": "Explore different regions of Korea",
+      "content": {
+        "overview": "Each region of Korea offers unique characteristics, attractions, and local specialties. From bustling Seoul to peaceful countryside, discover the diversity of Korean regions.",
+        "sections": [
+          {
+            "heading": "Seoul & Gyeonggi",
+            "text": "The capital region offers modern shopping, entertainment, historical palaces, and vibrant nightlife. Visit Gangnam, Myeongdong, Insadong, and the Han River."
+          },
+          {
+            "heading": "Busan & Gyeongsang",
+            "text": "Korea's second-largest city features beautiful beaches, seafood markets, and the famous Gamcheon Culture Village. Explore coastal cities and historical sites."
+          },
+          {
+            "heading": "Jeju Island",
+            "text": "Korea's premier island destination offers volcanic landscapes, beaches, waterfalls, and unique local culture. Perfect for nature lovers and honeymooners."
+          },
+          {
+            "heading": "Other Regions",
+            "text": "Discover Jeonju's traditional hanok village, Gangwon's ski resorts and mountains, and Jeolla's culinary heritage."
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "USIM",
+      "subtitle": "Stay connected with Korean SIM cards",
+      "content": {
+        "overview": "Stay connected during your Korea trip with a local SIM card or portable WiFi device. Korea has excellent mobile network coverage and fast internet speeds.",
+        "sections": [
+          {
+            "heading": "SIM Card Options",
+            "text": "Purchase prepaid tourist SIM cards at the airport or convenience stores. Options include data-only or data with voice calls. Plans typically range from 3 to 30 days."
+          },
+          {
+            "heading": "Where to Buy",
+            "text": "SIM cards are available at Incheon Airport arrival halls, major convenience stores (GS25, CU, 7-Eleven), and mobile carrier shops (KT, SK Telecom, LG U+)."
+          },
+          {
+            "heading": "Portable WiFi",
+            "text": "Rent pocket WiFi devices that can connect multiple devices simultaneously. Available for airport pickup or hotel delivery. Return at the airport before departure."
+          },
+          {
+            "heading": "Requirements",
+            "text": "Bring your passport and ensure your phone is unlocked. Most modern smartphones are compatible with Korean networks (LTE/5G)."
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Emergency",
+      "subtitle": "Important emergency contacts and information",
+      "content": {
+        "overview": "Korea is a safe country, but it's important to know emergency contacts and procedures. Emergency services are available 24/7 with multilingual support.",
+        "sections": [
+          {
+            "heading": "Emergency Numbers",
+            "text": "Police: 112, Fire/Ambulance: 119, Medical Emergency: 1339, Tourist Hotline: 1330 (English, Chinese, Japanese support available). These calls are free from any phone."
+          },
+          {
+            "heading": "Hospitals",
+            "text": "Major hospitals in Seoul and other cities have international clinics with English-speaking staff. Bring your passport and travel insurance information."
+          },
+          {
+            "heading": "Embassy Information",
+            "text": "Contact your country's embassy or consulate in case of passport loss, legal issues, or other serious problems. Keep embassy contact information saved."
+          },
+          {
+            "heading": "Safety Tips",
+            "text": "Korea is generally very safe, but stay aware of your surroundings. Keep valuables secure, avoid isolated areas late at night, and follow local laws and customs."
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Translation",
+      "subtitle": "Essential Korean phrases and translation tips",
+      "content": {
+        "overview": "While many Koreans in tourist areas speak some English, learning basic Korean phrases enhances your travel experience and shows respect for local culture.",
+        "sections": [
+          {
+            "heading": "Basic Phrases",
+            "text": "Hello: 안녕하세요 (Annyeonghaseyo), Thank you: 감사합니다 (Gamsahamnida), Excuse me: 실례합니다 (Sillyehamnida), How much?: 얼마예요? (Eolmayeyo?)"
+          },
+          {
+            "heading": "Translation Apps",
+            "text": "Use Papago (Naver's translation app) or Google Translate for real-time translation. Both support camera translation for signs and menus."
+          },
+          {
+            "heading": "Language Support",
+            "text": "Tourist areas, subway stations, and major attractions provide information in English, Chinese, and Japanese. Many restaurants have picture menus."
+          },
+          {
+            "heading": "Communication Tips",
+            "text": "Speak slowly and clearly. Use simple words. Hand gestures can help. Most younger Koreans have basic English skills. Tourist information centers offer interpretation services."
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Money Exchange",
+      "subtitle": "Currency exchange and banking information",
+      "content": {
+        "overview": "Korea's currency is the Korean Won (KRW). Understanding exchange options and payment methods helps you manage your travel budget effectively.",
+        "sections": [
+          {
+            "heading": "Where to Exchange",
+            "text": "Exchange currency at banks, authorized money exchange booths, or hotels. Airport exchange rates are convenient but may have higher fees. Banks typically offer better rates."
+          },
+          {
+            "heading": "ATMs",
+            "text": "International ATMs are widely available at convenience stores, subway stations, and banks. Look for 'Global ATM' signs. Most accept Visa, Mastercard, and major cards."
+          },
+          {
+            "heading": "Credit Cards",
+            "text": "Credit cards are widely accepted in cities. Visa and Mastercard are most common. Some smaller shops and traditional markets prefer cash."
+          },
+          {
+            "heading": "Tips",
+            "text": "Notify your bank before traveling. Carry some cash for small purchases. Keep exchange receipts. Tipping is not customary in Korea."
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "Food Guide",
+      "subtitle": "Discover authentic Korean cuisine",
+      "content": {
+        "overview": "Korean cuisine is diverse, flavorful, and increasingly popular worldwide. From street food to fine dining, Korea offers unforgettable culinary experiences.",
+        "sections": [
+          {
+            "heading": "Must-Try Dishes",
+            "text": "Kimchi, Bibimbap, Korean BBQ (Bulgogi, Galbi), Tteokbokki, Japchae, Samgyeopsal, Kimchi Jjigae, Naengmyeon, and Korean Fried Chicken."
+          },
+          {
+            "heading": "Dining Etiquette",
+            "text": "Wait to be seated. Don't tip. Use both hands when receiving items from elders. Try all the banchan (side dishes). Slurping noodles is acceptable."
+          },
+          {
+            "heading": "Food Districts",
+            "text": "Visit Myeongdong for street food, Gwangjang Market for traditional dishes, Gangnam for upscale dining, and Hongdae for trendy cafes and fusion cuisine."
+          },
+          {
+            "heading": "Dietary Restrictions",
+            "text": "Vegetarian options are increasingly available. Temple food restaurants offer excellent vegetarian cuisine. Inform restaurants of allergies or dietary restrictions."
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": "WiFi & Internet",
+      "subtitle": "Stay online throughout your trip",
+      "content": {
+        "overview": "Korea has one of the world's fastest and most extensive internet infrastructures. Free WiFi is available in many public places, making it easy to stay connected.",
+        "sections": [
+          {
+            "heading": "Free WiFi",
+            "text": "Free WiFi is available in subway stations, buses, cafes, restaurants, hotels, and tourist attractions. Look for 'Public WiFi' or specific network names like 'Seoul WiFi'."
+          },
+          {
+            "heading": "WiFi Apps",
+            "text": "Download apps like 'WiFi Map' or 'Free WiFi Korea' to find nearby hotspots. Many convenience stores offer free WiFi for customers."
+          },
+          {
+            "heading": "Internet Cafes",
+            "text": "PC bangs (internet cafes) are common and affordable. They offer high-speed internet, gaming computers, and sometimes snacks and drinks."
+          },
+          {
+            "heading": "Mobile Data",
+            "text": "For constant connectivity, consider getting a tourist SIM card or renting a portable WiFi device. Korea's 5G network is widely available."
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": "Shopping Guide",
+      "subtitle": "Best shopping destinations in Korea",
+      "content": {
+        "overview": "Korea is a shopping paradise offering everything from luxury brands to unique local products. From cosmetics to fashion, electronics to traditional crafts, shopping is a highlight of any Korea trip.",
+        "sections": [
+          {
+            "heading": "Shopping Districts",
+            "text": "Myeongdong for cosmetics and fashion, Dongdaemun for wholesale and late-night shopping, Gangnam for luxury brands, Insadong for traditional crafts, and Hongdae for indie fashion."
+          },
+          {
+            "heading": "Korean Beauty",
+            "text": "K-beauty products are world-famous. Visit Olive Young, Innisfree, Etude House, and The Face Shop. Many stores offer tax refund services for tourists."
+          },
+          {
+            "heading": "Markets",
+            "text": "Traditional markets like Namdaemun and Gwangjang offer authentic shopping experiences. Bargaining is acceptable at traditional markets but not in regular stores."
+          },
+          {
+            "heading": "Tax Refund",
+            "text": "Look for 'Tax Free' signs. Keep receipts and claim refunds at the airport. Minimum purchase amounts apply. Bring your passport when shopping."
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": "Weather & Seasons",
+      "subtitle": "Plan your visit with weather information",
+      "content": {
+        "overview": "Korea has four distinct seasons, each offering unique experiences. Understanding seasonal weather helps you pack appropriately and plan activities.",
+        "sections": [
+          {
+            "heading": "Spring (March-May)",
+            "text": "Mild temperatures (10-20°C). Cherry blossoms bloom in late March to early April. Popular season for tourism. Pack light jackets and layers."
+          },
+          {
+            "heading": "Summer (June-August)",
+            "text": "Hot and humid (25-35°C). Monsoon season in July. Beach season. Pack light, breathable clothing, sunscreen, and umbrella."
+          },
+          {
+            "heading": "Autumn (September-November)",
+            "text": "Cool and comfortable (10-20°C). Beautiful fall foliage in October-November. Best season for hiking. Pack layers and light jacket."
+          },
+          {
+            "heading": "Winter (December-February)",
+            "text": "Cold and dry (-5 to 5°C). Snow in mountainous areas. Ski season. Pack warm coats, thermal wear, and winter accessories."
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "Korean Culture & Tips",
+      "subtitle": "Cultural etiquette and local customs",
+      "content": {
+        "overview": "Understanding Korean culture and etiquette enhances your travel experience and helps you interact respectfully with locals. Korea has rich traditions alongside modern culture.",
+        "sections": [
+          {
+            "heading": "Social Etiquette",
+            "text": "Bow when greeting. Remove shoes when entering homes and some restaurants. Use both hands when giving or receiving items from elders. Respect personal space."
+          },
+          {
+            "heading": "Dining Culture",
+            "text": "Wait for elders to start eating. Don't stick chopsticks upright in rice. Pour drinks for others, not yourself. Sharing dishes is common."
+          },
+          {
+            "heading": "Public Behavior",
+            "text": "Speak quietly on public transportation. Stand on the right side of escalators. Designated seats are for elderly, pregnant women, and disabled persons."
+          },
+          {
+            "heading": "Cultural Experiences",
+            "text": "Try wearing hanbok (traditional clothing). Visit a jjimjilbang (Korean spa). Attend a traditional performance. Participate in a tea ceremony."
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "title": "Nearby Restaurants",
+      "subtitle": "Find great restaurants near you",
+      "content": {
+        "overview": "Korea's dining scene is vibrant and diverse. From street food stalls to Michelin-starred restaurants, finding great food is easy wherever you are.",
+        "sections": [
+          {
+            "heading": "Finding Restaurants",
+            "text": "Use apps like Naver Map, Kakao Map, or Google Maps to find nearby restaurants. Look for places with many reviews and high ratings."
+          },
+          {
+            "heading": "Restaurant Types",
+            "text": "Korean BBQ restaurants, traditional Korean restaurants, casual dining chains, street food stalls, cafes, and international cuisine options are widely available."
+          },
+          {
+            "heading": "Meal Times",
+            "text": "Lunch: 12:00-14:00, Dinner: 18:00-21:00. Many restaurants close between meal times. Some places are open 24 hours, especially in major districts."
+          },
+          {
+            "heading": "Ordering Tips",
+            "text": "Picture menus are common. Point to what you want. Many restaurants have call buttons at tables. Service is generally quick and efficient."
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "title": "Nearby Hotels",
+      "subtitle": "Accommodation options for every budget",
+      "content": {
+        "overview": "Korea offers diverse accommodation options suitable for all budgets and preferences. From luxury hotels to budget guesthouses, finding the right place to stay is easy.",
+        "sections": [
+          {
+            "heading": "Hotel Types",
+            "text": "International luxury hotels, business hotels, boutique hotels, guesthouses, hostels, hanok stays (traditional houses), and Airbnb options are available."
+          },
+          {
+            "heading": "Popular Areas",
+            "text": "Myeongdong and Dongdaemun for shopping access, Gangnam for business and luxury, Hongdae for youth culture, Insadong for traditional atmosphere."
+          },
+          {
+            "heading": "Booking Tips",
+            "text": "Book early during peak seasons. Check location relative to subway stations. Read recent reviews. Confirm amenities and cancellation policies."
+          },
+          {
+            "heading": "Amenities",
+            "text": "Most hotels offer free WiFi, toiletries, and breakfast. Many have convenience stores nearby. Check-in is usually 15:00, check-out 11:00."
+          }
+        ]
+      }
+    }
+  ]
+}
